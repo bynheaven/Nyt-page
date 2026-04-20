@@ -43,7 +43,12 @@ h1 {
 }
 
 .vid-right {
-    width: 350px;
+    width: 380px;
     height: 250px;
     flex: none;
+}
+
+.live {
+    color: red;
+    text-align: left;
 }
