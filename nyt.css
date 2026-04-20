@@ -38,7 +38,7 @@ h1 {
     flex: 1;
     text-align: left;
     flex-direction: column;
-    padding: auto;
+    padding: 30px;
     max-width: 300px;
 }
 
