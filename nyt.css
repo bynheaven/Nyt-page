@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 20px;
+    padding: 12px 40px;
     border-bottom: 1px solid #e2e2e2;
 }
 
@@ -30,7 +30,7 @@ h1 {
     flex-direction: row;
     gap: 10px;
     align-items: flex-start;
-    margin-left: 35%;
+    margin-left: 30%;
 
 }
 
