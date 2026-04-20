@@ -14,11 +14,11 @@
 
 .tags-row {
     display: flex;
-    justify-content: space-between;
+    justify-content: flex-start;
     align-items: center;
     padding: 12px 10px;
     border-bottom: 1px solid #e2e2e200;
-    gap: 10px;
+    gap: 20px;
 }
 
 h1 {
