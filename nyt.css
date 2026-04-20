@@ -8,7 +8,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 12px 40px;
+    padding: 12px 20px;
     border-bottom: 1px solid #e2e2e2;
 }
 
@@ -17,7 +17,9 @@
     justify-content: space-between;
     align-items: center;
     padding: 12px 20px;
-    border-bottom: 1px solid #e2e2e2;
+    border-bottom: 1px solid #e2e2e200;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 h1 {
@@ -43,8 +45,8 @@ h1 {
 }
 
 .vid-right {
-    width: 380px;
-    height: 250px;
+    width: 430px;
+    height: 300px;
     flex: none;
 }
 
