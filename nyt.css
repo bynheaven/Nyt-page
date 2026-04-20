@@ -26,6 +26,7 @@ h1 {
     color: var(--primary-color);
     text-align: center;
     font-family: 'Playfair', serif;
+    font-size: 48px;
 }
 
 .principal-container {
