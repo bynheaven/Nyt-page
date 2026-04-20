@@ -30,8 +30,7 @@ h1 {
     flex-direction: row;
     gap: 10px;
     align-items: flex-start;
-    padding: 20px;
-    margin-left: 30%;
+    margin-left: 35%;
 
 }
 
@@ -41,6 +40,7 @@ h1 {
     flex-direction: column;
     max-width: 200px;
     font-size: 14px;
+    width: auto;
 }
 
 .vid-right {
@@ -53,5 +53,5 @@ h1 {
     color: red;
     text-align: left;
     margin-bottom: 0px;
-    margin-left: 30%;
+    margin-left: 35%;
 }
