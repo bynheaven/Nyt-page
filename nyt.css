@@ -19,7 +19,7 @@
     padding: 12px 30px;
     border-bottom: 1px solid #e2e2e200;
     gap: 30px;
-    margin-left: 30%;
+    margin-left: 25%;
 }
 
 h1 {
@@ -84,4 +84,8 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
+}
+
+.date {
+    font-size: 14px;
 }
