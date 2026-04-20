@@ -25,6 +25,7 @@
 h1 {
     color: var(--primary-color);
     text-align: center;
+    font-family: 'Playfair', serif;
 }
 
 .principal-container {
@@ -42,6 +43,7 @@ h1 {
     flex-direction: column;
     max-width: 250px;
     font-size: 14px;
+    font-family: 'Libre Baskerville', serif;
 }
 
 .vid-right {
@@ -63,4 +65,21 @@ h1 {
     flex-direction: row;
     gap: 20px;
     max-width: 730px;
+    font-family: 'Libre Baskerville', serif;
+}
+
+.playfair-uniquifier {
+    font-family: "Playfair", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+.libre-baskerville-uniquifier {
+    font-family: "Libre Baskerville", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
