@@ -28,10 +28,11 @@ h1 {
 video {
     width: 100%;
     position: absolute;
-    padding-left: 100px;
+    margin-right: auto;
+    align-items: center;
 }
 
 .Hormuz {
     color: var(--primary-color);
-    margin-right: 100px;
+    text-align: left;
 }
