@@ -43,7 +43,7 @@ h1 {
 }
 
 .vid-right {
-    width: 50%;
-    height: 50%;
+    width: 500px;
+    height: 500px;
     flex: 1;
 }
