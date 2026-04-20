@@ -25,15 +25,21 @@ h1 {
     text-align: center;
 }
 
-video {
-    width: 45%;
-    position: absolute;
-    margin-right: auto;
+.principal-container {
+    display: flex;
     align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+    padding: 40px;
+
 }
 
-.Hormuz {
-    color: var(--primary-color);
+.text-left {
+    flex: 1;
     text-align: left;
-    margin-left: 50px;
+}
+
+.vid-right {
+    max-width: 50%;
+    height: auto;
 }
